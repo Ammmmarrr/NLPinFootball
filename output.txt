@@ -1,0 +1,36 @@
+- COMMENT: Vinicius causing problems down the left flank again
+  ISSUE DETECTED: right_defence
+  SUGGESTION: Bring support to the right-back zone.
+
+- COMMENT: Vinicius causing problems down the left flank again
+  ISSUE DETECTED: right_defence
+  SUGGESTION: Bring support to the right-back zone.
+
+- COMMENT: Madrid finding space in the midfield as Liverpool press too high
+  ISSUE DETECTED: central_midfield
+  SUGGESTION: Midfield looks outnumbered. Add cover.
+
+- COMMENT: Modric pulling strings through central areas
+  ISSUE DETECTED: central_midfield
+  SUGGESTION: Midfield looks outnumbered. Add cover.
+
+- COMMENT: Robertson getting caught too high up the pitch
+  ISSUE DETECTED: left_defence
+  SUGGESTION: Tell winger to track back and support left-back.
+
+- COMMENT: Fabinho isolated in midfield, with no passing options
+  ISSUE DETECTED: central_midfield
+  SUGGESTION: Midfield looks outnumbered. Add cover.
+
+- COMMENT: Diaz not tracking back, leaving Robertson vulnerable
+  ISSUE DETECTED: left_defence
+  SUGGESTION: Tell winger to track back and support left-back.
+
+- COMMENT: Liverpool's midfield looking stretched after the press
+  ISSUE DETECTED: central_midfield
+  SUGGESTION: Midfield looks outnumbered. Add cover.
+
+- COMMENT: TAA caught out of position as Vinicius makes a run
+  ISSUE DETECTED: right_defence
+  SUGGESTION: Bring support to the right-back zone.
+
