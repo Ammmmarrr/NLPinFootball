@@ -16,5 +16,3 @@ This is a lightweight Python script that checks football commentary for signs of
 1. Make sure you have Python and pandas installed.
 2. Run main.py.
 3. Open `output.txt` to see which areas were flagged and what the suggestion was.
-
-This isn't a smart AI tool — it's just a basic prototype for demo purposes.
